@@ -1,0 +1,93 @@
+{
+    "create": {
+        "title": "Kryptera meddelande",
+        "inputSecretLabel": "Hemligt meddelande",
+        "inputSecretPlaceholder": "Meddelande att kryptera lokalt i din webbläsare",
+        "buttonEncrypt": "Kryptera meddelande",
+        "buttonEncryptLoading": "Krypterar meddelande...",
+        "inputOneTimeLabel": "Engångsnedladdning",
+        "inputPasswordLabel": "Anpassad dekrypteringsnyckel",
+        "inputGenerateLabel": "Generera dekrypteringsnyckel"
+    },
+    "upload": {
+        "title": "Släpp fil här för uppladning",
+        "caption": "Filuppladdning är designad för små filer som ssh nycklar och certifikat.",
+        "errorFileTooLarge": "Filen överstiger maxgränsen"
+    },
+    "display": {
+        "titleFetching": "Hämtar från databas, var god vänta...",
+        "titleDecrypting": "Dekrypterar, var god vänta...",
+        "titleDecryptionKey": "Ange dekrypteringsnyckel",
+        "captionDecryptionKey": "Ladda inte om sidan då hemligheten kan vara begränsad till en enkel nedladdning.",
+        "inputDecryptionKeyPlaceholder": "Dekrypteringsnyckel",
+        "inputDecryptionKeyLabel": "En dekrypteringsnyckel saknas, var god skriv den nedan",
+        "errorInvalidPassword": "Ogiltigt lösenord, var god försök igen",
+        "buttonDecrypt": "Dekryptera hemlighet"
+    },
+    "error": {
+        "title": "Hemligheten existerar inte",
+        "subtitle": "Detta kan orsakas av någon av följande anledningar.",
+        "titleOpened": "Öppnad tidigare",
+        "subtitleOpenedBefore": "En hemlighet kan vara begränsad till en enkel nedladdning. Den kan förloras för att avsändaren klickat på länken innan du gjorde.",
+        "subtitleOpenedCompromised": "Hemligheten kan ha äventyrats och läst av någon annan. Du bör kontakta avsändaren och be om en ny hemlighet.",
+        "titleBrokenLink": "Trasig länk",
+        "subtitleBrokenLink": "Länken måste överensstämma helt för dekrypteringen att funka, den kanske saknar några magiska siffror.",
+        "titleExpired": "Utgånget",
+        "subtitleExpired": "Ingen hemlighet håller för evigt. Alla lagrade hemligheter går ut och självförstörs automatiskt. Livstid varierar från en timma till en vecka."
+    },
+    "result": {
+        "title": "Hemlighet lagrad i databas",
+        "subtitleDownloadOnce": "Kom ihåg att hemligheter endas kan laddas ner en gång om inte annat angivits, öppna inte länken själv.",
+        "subtitleChannel": "Den försiktiga bör skicka dekrypteringsnyckeln i en separat kommunikationskanal.",
+        "rowLabelOneClick": "Engångslänk",
+        "rowLabelShortLink": "Kortlänk",
+        "rowLabelDecryptionKey": "Dekrypteringsnyckel"
+    },
+    "secret": {
+        "titleFile": "Fil nedladdad",
+        "titleMessage": "Dekrypterat Meddelande",
+        "subtitleMessage": "Den här hemligheten kanske inte kan visas igen, var noga med att spara den nu!",
+        "buttonCopy": "Kopiera"
+    },
+    "delete": {
+        "buttonDelete": "Radera",
+        "messageDeleted": "Hemligheten är nu borttagen från servern!",
+        "dialogTitle": "Radera hemligheten?",
+        "dialogMessage": "Är du säker på att du vill ta bort den här hemligheten?",
+        "dialogProgress": "Raderas...",
+        "dialogConfirm": "Radera",
+        "dialogCancel": "Avbryt"
+    },
+    "attribution": {
+        "createdBy": "Skapad av",
+        "translatedBy": "Översatt av",
+        "translatorName": "Norrköpings kommun",
+        "translatorLink": "https://github.com/nkpg-kommun"
+    },
+    "expiration": {
+        "legend": "Det krypterade meddelandet kommer att raderas automatiskt efter",
+        "optionOneHourLabel": "En timme",
+        "optionOneDayLabel": "En dag",
+        "optionOneWeekLabel": "En vecka"
+    },
+    "features": {
+        "title": "Dela enkelt och säkert hemligheter",
+        "subtitle": "Yopass skapades för att reducera antalet lösenord som skickas i klarttext över mail och övriga kommunikationsmedel genom att skapa en länk med kort levnadslängd som bara kan ses enstaka gång.",
+        "featureEndToEndTitle": "End-to-end kryptering",
+        "featureEndToEndText": "Kryptering och dekryptering gör lokalt i webbläsaren. Nyckeln lagras aldrig i Yopass.",
+        "featureSelfDestructionTitle": "Självförstörande",
+        "featureSelfDestructionText": "Krypterade meddelanden har en fixerad livslängd och kommer raderas automatiskt efter utgång.",
+        "featureOneTimeTitle": "Engångsnedladdning",
+        "featureOneTimeText": "Det krypterade meddelandet kan endast bli hämtad en gång vilket reducerar risken av att någon obehörig kan se din hemlighet.",
+        "featureSimpleSharingTitle": "Enkel delning",
+        "featureSimpleSharingText": "Yopass genererar en unik engångslänk för krypterade filer eller meddelanden. Dekrypterings lösenordet kan alternativt skickas separat.",
+        "featureNoAccountsTitle": "Inget konto behövs",
+        "featureNoAccountsText": "Delning ska vara snabbt och enkelt; Ingen extra information förutom den krypterade hemligheten lagras i databasen.",
+        "featureOpenSourceTitle": "Öppen källkod",
+        "featureOpenSourceText": "Yopass krypteringsfunktionalitet är byggd på öppen källkod vilket betyder full transparens med möjlighet att granska och skicka in funktioner."
+    },
+    "header": {
+        "buttonHome": "Hem",
+        "buttonUpload": "Uppladdning"
+    }
+ }
