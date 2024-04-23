@@ -71,7 +71,7 @@
         "optionOneWeekLabel": "En vecka"
     },
     "features": {
-        "title": "Dela enkelt och säkert hemligheter",
+        "title": "Dela hemligheter enkelt och säkert",
         "subtitle": "Yopass skapades för att reducera antalet lösenord som skickas i klarttext över mail och övriga kommunikationsmedel genom att skapa en länk med kort levnadslängd som bara kan ses enstaka gång.",
         "featureEndToEndTitle": "End-to-end kryptering",
         "featureEndToEndText": "Kryptering och dekryptering gör lokalt i webbläsaren. Nyckeln lagras aldrig i Yopass.",
