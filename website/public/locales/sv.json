@@ -71,18 +71,18 @@
         "optionOneWeekLabel": "En vecka"
     },
     "features": {
-        "title": "Dela hemligheter enkelt och säkert",
-        "subtitle": "Yopass skapades för att reducera antalet lösenord som skickas i klarttext över e-post och övriga kommunikationsmedel genom att skapa en länk med kort levnadslängd som bara går att använda en gång",
+        "title": "Dela hemligheter på ett enkelt och säkert sätt",
+        "subtitle": "Yopass skapades för att reducera antalet lösenord som skickas i klartext över e-post och övriga kommunikationsmedel genom att skapa en länk med kort levnadslängd som bara går att använda en gång",
         "featureEndToEndTitle": "End-to-end kryptering",
         "featureEndToEndText": "Kryptering och dekryptering gör lokalt i webbläsaren. Nyckeln lagras aldrig i Yopass.",
         "featureSelfDestructionTitle": "Självförstörande",
-        "featureSelfDestructionText": "Krypterade meddelanden har en fixerad livslängd och kommer raderas automatiskt efter utgång.",
+        "featureSelfDestructionText": "Krypterade meddelanden har en bestämd livslängd och kommer raderas automatiskt efter utgång.",
         "featureOneTimeTitle": "Engångsnedladdning",
         "featureOneTimeText": "Det krypterade meddelandet kan endast bli hämtad en gång vilket reducerar risken av att någon obehörig kan se din hemlighet.",
         "featureSimpleSharingTitle": "Enkel delning",
-        "featureSimpleSharingText": "Yopass genererar en unik engångslänk för krypterade filer eller meddelanden. Dekrypterings lösenordet kan alternativt skickas separat.",
+        "featureSimpleSharingText": "Yopass genererar en unik engångslänk för krypterade filer eller meddelanden. Dekrypteringslösenordet kan alternativt skickas separat.",
         "featureNoAccountsTitle": "Inget konto behövs",
-        "featureNoAccountsText": "Delning ska vara snabbt och enkelt; Ingen extra information förutom den krypterade hemligheten lagras i databasen.",
+        "featureNoAccountsText": "Delning ska vara snabbt och enkelt. Ingen extra information förutom den krypterade hemligheten lagras i databasen.",
         "featureOpenSourceTitle": "Öppen källkod",
         "featureOpenSourceText": "Yopass krypteringsfunktionalitet är byggd på öppen källkod vilket betyder full transparens med möjlighet att granska och skicka in funktioner."
     },
