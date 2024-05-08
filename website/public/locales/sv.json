@@ -45,7 +45,7 @@
     },
     "secret": {
         "titleFile": "Fil nedladdad",
-        "titleMessage": "Dekrypterat Meddelande",
+        "titleMessage": "Dekrypterat meddelande",
         "subtitleMessage": "Den här hemligheten kanske inte kan visas igen, var noga med att spara den nu!",
         "buttonCopy": "Kopiera"
     },
