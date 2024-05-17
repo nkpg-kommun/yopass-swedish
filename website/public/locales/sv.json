@@ -39,7 +39,7 @@
         "title": "Hemlighet lagrad i databas",
         "subtitleDownloadOnce": "Kom ihåg att hemligheter endas kan laddas ner en gång om inte annat angivits, öppna inte länken själv.",
         "subtitleChannel": "Den försiktiga bör skicka dekrypteringsnyckeln i en separat kommunikationskanal.",
-        "rowLabelOneClick": "Engångslänk",
+        "rowLabelOneClick": "Enklickslänk",
         "rowLabelShortLink": "Kortlänk",
         "rowLabelDecryptionKey": "Dekrypteringsnyckel"
     },
