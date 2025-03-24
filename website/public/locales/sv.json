@@ -47,7 +47,9 @@
         "titleFile": "Fil nedladdad",
         "titleMessage": "Dekrypterat meddelande",
         "subtitleMessage": "Den här hemligheten kanske inte kan visas igen, var noga med att spara den nu!",
-        "buttonCopy": "Kopiera"
+        "buttonCopy": "Kopiera",
+        "showQrCode": "Visa QR-kod",
+        "hideQrCode": "Dölj QR-kod"
     },
     "delete": {
         "buttonDelete": "Radera",
